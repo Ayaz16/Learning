@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Nube/Nube.iml" filepath="$PROJECT_DIR$/Nube/Nube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nube/Prilozhenie/Prilozhenie.iml" filepath="$PROJECT_DIR$/Nube/Prilozhenie/Prilozhenie.iml" />
+    </modules>
+  </component>
+</project>
