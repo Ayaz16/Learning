@@ -10,7 +10,6 @@ public class ContacrForm extends JFrame {
     JTextField name_field, email_field;
     JRadioButton male;
     JCheckBox check;
-
     public ContacrForm(){
         super("Контактная форма");
         super.setBounds(200, 100, 250, 230);

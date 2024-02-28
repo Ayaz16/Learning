@@ -16,7 +16,13 @@ public class car extends transport implements iLights {
     private boolean isOn;
 
     @Override
+    public void getValues() {
+        super.getValues();
+    }
+
+    @Override
     public void setLight(boolean set) {
+
         isOn = set;
     }
 
